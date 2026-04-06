@@ -1,2 +1,3 @@
 -menonton tutorial menggunakan github
 -melakukan uji coba di web github
+-mulai banyak memahami tentang github
